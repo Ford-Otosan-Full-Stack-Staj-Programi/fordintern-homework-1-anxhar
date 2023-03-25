@@ -1,0 +1,7 @@
+C:\Users\fketen1\source\repos\patikaOdevApi\patikaOdevApi\obj\Debug\net6.0\patikaOdevApi.Web.csproj.AssemblyReference.cache
+C:\Users\fketen1\source\repos\patikaOdevApi\patikaOdevApi\obj\Debug\net6.0\patikaOdevApi.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fketen1\source\repos\patikaOdevApi\patikaOdevApi\obj\Debug\net6.0\patikaOdevApi.Web.AssemblyInfoInputs.cache
+C:\Users\fketen1\source\repos\patikaOdevApi\patikaOdevApi\obj\Debug\net6.0\patikaOdevApi.Web.AssemblyInfo.cs
+C:\Users\fketen1\source\repos\patikaOdevApi\patikaOdevApi\obj\Debug\net6.0\patikaOdevApi.Web.csproj.CoreCompileInputs.cache
+C:\Users\fketen1\source\repos\patikaOdevApi\patikaOdevApi\obj\Debug\net6.0\patikaOdevApi.Web.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\fketen1\source\repos\patikaOdevApi\patikaOdevApi\obj\Debug\net6.0\patikaOdevApi.Web.MvcApplicationPartsAssemblyInfo.cache
